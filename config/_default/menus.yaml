@@ -1,0 +1,48 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 921095b6-8d16-3c11-dd44-2f68fd22160b
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 0443e006-bde5-f9ca-3ac3-36114b2f01a7
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 536382e0-ef6f-655a-0573-05d0a16861ee
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 552a1762-05fb-6b0f-9b6f-9b9206e27674
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: fddc44be-d89e-feb3-2a01-21ccb980da48
+  name: Snow Day Assignment
+  pageRef: /pages/assignments/snow-day-assignment
+  parent: 552a1762-05fb-6b0f-9b6f-9b9206e27674
+  weight: 50
+- identifier: 81724b5a-f45f-dd68-4a08-4662f89d6418
+  name: MELUS Conference Report/Project
+  pageRef: /pages/assignments/melus-conference-report-project/
+  parent: 552a1762-05fb-6b0f-9b6f-9b9206e27674
+  weight: 60
+- identifier: 119606d3-1306-a589-6b1b-c3fac9a895a0
+  name: Related Resources
+  pageRef: /pages/related-resources/
+  weight: 70
+- identifier: 32169701-6fd3-a7fd-40f8-cf9d4cfe692b
+  name: A Brief History of Literature in the Western Canon
+  pageRef: /pages/related-resources/a-brief-history-of-literature-in-the-western-canon
+  parent: 119606d3-1306-a589-6b1b-c3fac9a895a0
+  weight: 80
+- identifier: 6631c79f-9629-c5ba-c80e-a8e316ac2ac8
+  name: MLA Works Cited Format
+  pageRef: /pages/related-resources/mla-works-cited-format
+  parent: 119606d3-1306-a589-6b1b-c3fac9a895a0
+  weight: 90
+- identifier: 0b3198f4-666e-4307-08b7-6cb230d982a2
+  name: Writing FAQs
+  pageRef: /pages/related-resources/writing-faqs
+  parent: 119606d3-1306-a589-6b1b-c3fac9a895a0
+  weight: 100
