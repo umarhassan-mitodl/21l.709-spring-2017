@@ -2,8 +2,6 @@
 content_type: page
 description: This section contains the course calendar, which includes the schedule
   of course topics as well as key due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -277,7 +275,7 @@ Conference Reports
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Special Guest: [Mia Heavener](https://www.alaskapacific.edu/people/mia-heavener/)
+Special Guest: {{% resource_link "64cb8319-a0fc-4d86-a33e-e0e0f7b01c08" "Mia Heavener" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  

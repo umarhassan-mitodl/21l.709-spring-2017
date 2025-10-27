@@ -2,8 +2,6 @@
 content_type: page
 description: "This section contains assignment details for a paper on Dion Boucicault\u2019\
   s The Octoroon and Branden Jacobs-Jenkins\u2019s An Octoroon."
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: The 31st Annual MELUS ConferenceAssignments
@@ -20,8 +18,8 @@ How did you like the two plays you read for today? What questions do they raise 
 In an attempt to reproduce the contents of today’s class on Dion Boucicault’s _The Octoroon_ (1859) and Branden Jacobs-Jenkins’s _An Octoroon_ (2014), please read the following:
 
 *   Banham, Martin, ed. "Melodrama." In _The Cambridge Guide to Theatre_. 2nd edition. Cambridge University Press, 1995. ISBN: 9780521434379.
-*   Howes, Marjorie. "[Melodramatic Conventions and Atlantic History in Dion Boucicault](https://muse.jhu.edu/article/458539)." _Éire-Ireland_ 46, no. 3 (2011): 84–101.
-*   Foster, Verna A. "[Meta-Melodrama: Branden Jacobs-Jenkins Appropriates Dion Boucicault’s _The Octoroon_](https://muse.jhu.edu/article/629588)." _Modern Drama_ 59, no. 3 (2016): 285–305.
+*   Howes, Marjorie. "{{% resource_link "b9ad8ca4-1773-4bc1-ab48-4474d5e2a0c9" "Melodramatic Conventions and Atlantic History in Dion Boucicault" %}}." _Éire-Ireland_ 46, no. 3 (2011): 84–101.
+*   Foster, Verna A. "{{% resource_link "c2c3dae6-4f7a-4b01-8750-7fb3baf37eff" "Meta-Melodrama: Branden Jacobs-Jenkins Appropriates Dion Boucicault’s _The Octoroon_" %}}." _Modern Drama_ 59, no. 3 (2016): 285–305.
 
 For today’s discussion, please consider this question:
 

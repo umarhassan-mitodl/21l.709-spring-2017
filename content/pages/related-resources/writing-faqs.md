@@ -21,7 +21,7 @@ uid: 0b3198f4-666e-4307-08b7-6cb230d982a2
     1.  “ . . . simply by examining his choice of words, it is quite clear that the feeling remains.”
     2.  _Correct so that the phrase modifies the appropriate noun:_ “simply by examining \[who’s examining?\] _we see_ that the feeling remains’: “His word choice emphasizes the feeling.”
 4.  **Pronoun agreement:** Make sure pronouns agree in number and gender with the nouns they refer to. “The diction is very lofty throughout this passage—almost as if each speaker is flaunting their knowledge.” “Each speaker” is singular. Hence: “each speaker is flaunting _his_ knowledge.” If the gender is unknown use _his_ or _her_ or change the number of the noun: “the _speakers_ are flaunting _their_ knowledge.”
-5.  **Faulty pronoun reference:** Make sure that pronouns like “which,” “this,” or “that” have nouns to refer to. See this page on [Using Pronouns Clearly](https://owl.english.purdue.edu/owl/resource/595/01/) at OWL (Online Writing Lab at Purdue).
+5.  **Faulty pronoun reference:** Make sure that pronouns like “which,” “this,” or “that” have nouns to refer to. See this page on {{% resource_link "f62ded2e-d90a-4c96-b26a-69d582a00617" "Using Pronouns Clearly" %}} at OWL (Online Writing Lab at Purdue).
 6.  **Punctuation in a compound sentence:** A compound sentence links two or more main clauses with a comma and coordinating conjunction (and, but, or), or a semicolon.
     1.  Conjunction and no comma makes a _run-o_n (error). “I collected bananas, yoghurt, and frozen berries and I made a smoothie.”
     2.  Comma and no conjunction makes a comma splice (error). “I collected bananas, yoghurt, and frozen berries, I made a smoothie.”

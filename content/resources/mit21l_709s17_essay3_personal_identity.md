@@ -5,8 +5,6 @@ description: Student work for Essay 3 titled, "Disruption to Personal Identity i
 file: /courses/21l-709-ethnic-literature-in-america-spring-2017/8a9772c6766822d33b7f4e267f766682_MIT21L_709S17_Essay3_Personal_Identity.pdf
 file_size: 310723
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

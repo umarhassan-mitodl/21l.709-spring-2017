@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains guidelines for the course assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: The 31st Annual MELUS ConferenceAssignments
@@ -80,7 +78,7 @@ _Example student work_
 
 Due: Sessions 19 and 21
 
-For {{% resource_link 81724b5a-f45f-dd68-4a08-4662f89d6418 "Conference Reports" %}}, students attended [The 31st Annual MELUS Conference](https://networks.h-net.org/node/2606/discussions/144880/cfp-melus-31st-annual-conference-mit-april-27-30-2017) and wrote a report describing their experience.
+For {{% resource_link 81724b5a-f45f-dd68-4a08-4662f89d6418 "Conference Reports" %}}, students attended {{% resource_link "5616eb8a-8724-43d4-9c2b-b6f92ef68816" "The 31st Annual MELUS Conference" %}} and wrote a report describing their experience.
 
 Note: Grading for the MELUS project involves two parts of equal weight. The report has been evaluated on the basis of the assignment guidelines, with consideration given to: research (use of materials, works cited) and relevance (ideas, discussion questions). Evaluation of the reflection is based on evidence of significant engagement with the conference, as shown in expression of ideas and critical handling of details.
 
